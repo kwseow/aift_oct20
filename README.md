@@ -23,4 +23,4 @@
 
 ## Quizes
 + Link to interactive quizes https://bit.ly/kw_poll 
-<img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
+
